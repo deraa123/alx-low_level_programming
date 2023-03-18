@@ -1,13 +1,17 @@
 #include <stdio.h>
 /**
- * main - Entry
- * return: Always 0
- **/
+ * main - Prints 'Programming is like building a multilingual puzzle'
+ *
+ * Return: Always 0 (success)
+ *
+ */
+
 int main(void)
+
 {
+
 	puts("\"Programming is like building a multilingual puzzle");
-	/**
-	 * always return
-	 */
+
 	return (0);
+
 }
