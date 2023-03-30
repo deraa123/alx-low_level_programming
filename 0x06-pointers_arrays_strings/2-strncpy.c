@@ -1,7 +1,3 @@
-@el898
-el898 srncpy
- 1 contributor
-31 lines (17 sloc)  342 Bytes
 #include "main.h"
 /**
  *_strncpy - finds the length of the string
